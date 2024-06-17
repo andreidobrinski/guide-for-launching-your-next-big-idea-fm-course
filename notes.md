@@ -163,3 +163,72 @@ Differentiating for different audiences
   - value proposition. how you explain your app and the benefits it provides
   - tone of voice. change the personality of your brand from the competition
   - example: liquid death branding
+
+## Understand your audience
+
+You don't just need to understand your audience, you need to tailor the app to your audience.
+
+Adapting the app to your audience
+
+- adapt the features to what they need
+- top tasks: highlight the things that they care about most
+- messaging: how you communicate with you audience will depend on who they are
+
+Steps in picking an audience
+
+1. identify possible audiences
+2. shortlist your audiences
+3. pick an initial target
+4. dig deeper into that audience
+
+Identifying possible audiences - targetting b2b
+
+- verticals: healthcare, higher ed, charities, finance, tech
+- size: revenue, employees, market share, assets, valuation
+- region: geographic, country, state, zip code
+
+b2c: interests, demographic, region
+
+- look at your competition for inspiration
+- who is talking about the pain points that you are solving?
+- look at related SEO terms
+
+How to shortlist
+
+- remove the impractical options
+- prioritize what remains
+
+How to prioritize
+
+- start with market size and growth potential
+  - is the audience large enough to sustain the business or would you need a secondary audience?
+  - is the market expanding or contracting?
+- market needs and pain points
+  - does the product offer a compelling solution to a specific need
+  - underserved needs: look for gaps in product offerings
+- product fit
+  - do the features align with the audience's preferences and requirements?
+  - adaptability: how adaptable will your product need to be to meet the evolving needs of the customer?
+- competitive landscape
+  - effectiveness: how well do the competitors meet the customer needs?
+  - saturation: how many competitors are in the space?
+  - dominance: how entrenched are the existing competitors? is there a clear path to disruption?
+- buying power
+  - is the app affordable for the customer?
+  - are they the decision maker that would buy the app?
+- lifetime value
+  - profitability: how much profit can you make off the audience over time?
+  - retention: how loyal do you predict the customer will be?
+- accesibility
+  - can you reach your audience?
+  - engagement: are they willing to engage with you?
+- regulatory environment
+  - compliance: are there rules in place?
+  - barriers to entry: are they in place for your sector?
+- cultural fit
+  - do you understand the values and preferences of the audience you want to reach?
+  - can you effectively communicate with them?
+  - do you share values with your audience?
+- tech saavviness
+  - is the user proficient with the tech you offer?
+  - will you need to support and educate them on how to use the product?
