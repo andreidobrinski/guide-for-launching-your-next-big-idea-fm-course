@@ -232,3 +232,26 @@ How to prioritize
 - tech saavviness
   - is the user proficient with the tech you offer?
   - will you need to support and educate them on how to use the product?
+
+### Pick an initial target
+
+Why only target a small niche?
+
+- bigger impact when choosing a smaller audience to target with limited time and budget
+- lower cost: increased word-of-mouth and lower ad costs to target the group
+
+Turning away customers: website can still be fairly generic as to not turn away customers.
+
+How to pick the audience
+
+- potential
+- experience: what audience do you have insider knowledge of?
+- passing: which audience do you care the most about and are the most excited about?
+- community: which audience has the most vibrant community?
+
+How to research community
+
+- influencers: who are they in the community?
+- blogs: what blogs exist? where do people go to learn and read?
+- groups: what groups exist in the community? mailing lists, forums, subreddits
+- events: in-person events that the community attends
