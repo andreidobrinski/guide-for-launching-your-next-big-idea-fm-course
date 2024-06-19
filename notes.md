@@ -255,3 +255,32 @@ How to research community
 - blogs: what blogs exist? where do people go to learn and read?
 - groups: what groups exist in the community? mailing lists, forums, subreddits
 - events: in-person events that the community attends
+
+### What is useful to know about an audience
+
+- questions: what questions are they seeking to answer?
+- objections: what might cause them not to act or abandon the experience?
+- goal: what do they ultimately want to acheive with your product?
+- tasks: what actions are needed for them to fulfill their goal?
+- state of mind: how are they feeling during the experience?
+- influence: who is what is influencing their experience?
+- challenges: what pain points do they have using the app?
+
+Touchpoints: email, website, social media, messaging, search, online ads, phone, in-person, offline ads
+
+Online research: review communities, read related blogs, SEO research, existing reports, social media, ask AI
+
+Identify the gaps: missing information, out of date information, suspect information
+
+- fill the gaps with surveys to fill out specific information that you want to know
+  - pollfish: a tool for surveys. Can also recruit an audience
+- fill the gaps with interviews. Talk to the audience directly
+
+Questions to ask in interviews
+
+- background and context: ask about pain points and goals using the service
+- how they use the service and what challenges they encounter
+- needs and opportunities: how satisfied are they with the service and with competitors products. How would they like to see this improved?
+- open-ended feedback: ask if there's anything else you haven't covered or if they have final thoughts that they'd like to share
+
+Pull the results into a persona or empathy map
