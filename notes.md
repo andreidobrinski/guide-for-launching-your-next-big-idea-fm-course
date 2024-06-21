@@ -366,3 +366,39 @@ Steps in running a campaign
 - build a landing page
 - drive traffic to the landing page
 - nurture your audience
+
+Defining success
+
+the "stay informed" approach
+
+- CTA is to follow the developments of your product.
+- No opportunity to get pricing data but an opportunity to nurture the lead.
+- This is a good approach if the audience is sentitive to feeling manipulated or cynical. Good approach for developers.
+
+the "waiting list" approach
+
+- CTA is "join the waiting list as we gradually roll out the product
+- creates a high sense of demand (could come across as deceptive)
+- allows you to nurture leads
+
+the "fake order" approach
+
+- CTA is "buy today for $99". Access all features, secure early priving
+- when they click buy-now you tell them that you're still in development but that they can sign up for a mailing list
+- most accurate about a buying experience since people are willing to click with the price in mind
+- could alienate users and come across as deceptive
+
+the "preorder" approach
+
+- CTA is "preorder today to save $99"
+- the money is not taken from their account
+- credit card data is entered and the product is preordered. Gumroad has a preorder option
+- very accurate to gauge pricing
+
+Can test multiple options across multiple landing pages
+
+Crowsourcing - instructor is not a fan of it
+
+- doesn't like taking people's money before there's something to give them
+- doesn't solve the problem of sustainably targetting your audience. Skews results about whether the business is sustainable
+- tends to skew towards physical products rather than software
