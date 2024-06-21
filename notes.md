@@ -457,3 +457,48 @@ Factors for pricing
 - competition: what do they charge?
 - flexibility: is there enough flexiblility to offer changes or discounts over time? Want to leave enough wiggle room in the pricing to do discounts or adapt over time
 - costs: will the price cover the costs?
+
+Build a landing page
+
+- value proposition
+  - summarize app in a single sentence
+  - benefits: how does it helps users achieve goals
+  - features: what are the features that you offer
+- calls to action
+  - primary: preorder for eg
+  - secondary: signup for updates
+  - no more than two calls to action
+- objections
+  - brainstorm why someone might not want to act? for eg
+    - what if they sell my email to a third party
+    - what if the content doesn't make sense
+    - what if it's too hard to subscribe
+    - what if I get too many emails
+    - what if there's pressure to buy
+    - what if features get taken away
+    - what if they get hacked?
+  - consider an exit intent survey
+    - getsitecontrol: an app that helos with this
+- social proof
+  - reviews and ratings
+  - testimonials
+  - simple naming of high profile customers
+  - celebrity endorsement
+  - third-party accreditation
+  - industry awards
+  - positive press coverage
+- content blocks
+  - each benefit, feature, social proof
+  - usually contains an image, heading, body and link
+  - similar to a UI card
+  - objections can also be part of a content block
+- app: hemingway. Improves content quality
+- page flow
+  - summary, CTA, social proof, benefits, CTA, features, social proof, CTA
+
+Testing a landing page
+
+- 5second test: see if people spot the key elements on the page
+- first click test, what do they click on
+- semantic differential survey, eyetracking simulation
+- can test a competitors webpage with eyetracking simulation
