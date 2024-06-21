@@ -284,3 +284,67 @@ Questions to ask in interviews
 - open-ended feedback: ask if there's anything else you haven't covered or if they have final thoughts that they'd like to share
 
 Pull the results into a persona or empathy map
+
+## MVP
+
+### Why is the MVP important
+
+- defines scope, keeps the project from being dragged on
+- reduces costs by keeping the build minimal in terms of time and money
+- lets you launch faster and better define the audience to know if the marketing is working or not
+
+### Steps in defining an MVP
+
+1. brainstorm possible ideas
+
+Identify as many tasks that the user might want to complete when using your application.
+Look at the competition, what they've built, not built, and promised to build soon
+
+2. identify top tasks
+
+Identify the 20% of features that 80% of users will primarily be interested in. These features define the MVP.
+
+A list apart article: top tasks analysis
+
+How to analyze top tasks:
+
+1. gather a long list of potential tasks
+2. rationalize the list into something more manageable
+3. get users to vote on what tasks matter most
+4. analyze ther results
+
+Create a survey. PollUnit is a good app for this.
+
+Clean the results. Remove duplicates and simplify wording. AI can help with analysis.
+
+If you can't access your users to test the feature set then you first need to think of a way to get access to the audience. If you can't talk to them, how are you supposed to share the app with them?
+
+Askable is a tool to help find users for surveys
+
+3. planning the launch features
+
+Is the feature practical to build?
+Is the feature in line with your value proposition in the market?
+Will the feature help you stand out from the competition?
+Will the feature create the impact that you expect it to?
+
+For each feature, create a set of user story cards: as a [role] I want to [task] so that I can [goal]
+
+### Prototype before you build
+
+- saves effort, it's easier to prototype to learn whether it's the right or wrong feature. faster to market
+- helps you visualize the app before you commit
+
+Start with lofi wireframes. Then go to high-fidelity mockups for critical screens.
+
+What can you learn from prototyping?
+
+- do the users like it? does it resonate with them?
+- do they get it? did they understand the interface and what they can do with it?
+- can they use it? are they able to successfully navigate and complete tasks
+
+Lyssna app: helps with user testing research
+
+Should I create and interactive prototype and do more thorough testing?
+
+- not until you know if people would buy your app
