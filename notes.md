@@ -509,3 +509,12 @@ Drive traffic
 - product hunt: tends to favour applications with broad appeal. Doesn't address traffic over the long term - initial spike of traffic but doesn't speak to sustainability. Best to wait until the product is up and running
 - content marketing. be a guest blogger on other people's blogs. appearing as a guest on podcasts. talk to influencers.
 - paid acquisition: paid/sponsored posts, PPC ads, search ads, social ads
+
+Marketing will take the majority of your effort.
+
+Nurture your audience
+
+- onboarding emails: a serial of emails over the course of a few weeks to get them thinking about the features
+- progress updates. Talk about progress but also solicit feedback
+- feature suggestions
+- early access
