@@ -348,3 +348,21 @@ Lyssna app: helps with user testing research
 Should I create and interactive prototype and do more thorough testing?
 
 - not until you know if people would buy your app
+
+### Running a test campaign
+
+Run the campaign as if the product was a real thing to test whether anyone is interested or not
+
+What should you learn from a campaign?
+
+- acquisition: whether we are capable of acquiring people's attention
+- conversion: can the app get them to convert pay/use etc
+- pricing: opportunity to make decisions about what to do with pricing
+
+Steps in running a campaign
+
+- define what success looks like
+- set a price
+- build a landing page
+- drive traffic to the landing page
+- nurture your audience
