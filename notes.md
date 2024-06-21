@@ -402,3 +402,58 @@ Crowsourcing - instructor is not a fan of it
 - doesn't like taking people's money before there's something to give them
 - doesn't solve the problem of sustainably targetting your audience. Skews results about whether the business is sustainable
 - tends to skew towards physical products rather than software
+
+Pricing
+
+freemium
+
+- free software with the option for a paid upgrade
+- great for user acquisition, reduces entry to start, rapidly builds a user base and can potentially lead to paying customers
+- difficult to get users to become paying customers
+
+subscription
+
+- recurring fee, annual or monthly
+- can have tiered pricing
+- predictable revenue that can scale with the size of your business
+- encourages ongoing development and support
+- can cause problems with bill timing. Monitoring and comms are crucial to avoid bill shocks
+
+usage-based
+
+- charging based on how much the product is used. "pay as you go"
+- fair to users
+- aligns costs to value received
+- need to continue providing value or you will see churn
+- important to have clear tier differentiation and manage feature updates well
+
+per-user
+
+- charged based on the amount of seats sold
+- often used in b2b
+- easy for customers to understand scales and pricing
+- fair in that the pricing scales with the team
+- can discourage adoption for larger companies due to initial cost
+- can lead to account sharing which reduces security and data integrity
+
+feature-based
+
+- offer multiple packages with different features at each price point.
+- users pay for more advanced features
+- allows customers to choose their plan
+- encourages upgrades as needs grow
+- can be difficult for a customer to determine which tier they are in
+- risk of overwhelming the customer with choices
+
+hybrid
+
+- combines multiple of the above
+- benefits of flexibility
+- downside is that it's tough to communicate
+
+Factors for pricing
+
+- audience: how much are they willing to pay?
+- competition: what do they charge?
+- flexibility: is there enough flexiblility to offer changes or discounts over time? Want to leave enough wiggle room in the pricing to do discounts or adapt over time
+- costs: will the price cover the costs?
